@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cihaksapp</string>
+    <string name="button">Button</string>
+    <string name="hola_mundo">Hola mundo!</string>
+    <string name="go_to_another_activity">Go to another activity</string>
+</resources>
